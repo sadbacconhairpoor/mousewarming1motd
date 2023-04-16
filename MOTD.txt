@@ -1,7 +1,9 @@
-Launch of GAGA!
+New updates are:
 
-Welcome!
-Go have fun!
-
-Theres some bugs so dont expect me to know some of them
-Monsters do work now so you can do horror HHHHHOOOOOORRRRRAAAAAAAYYYYYYYY
+Remade Spawn a litle better.
+Got rid of practice room for now.
+Added that you have to load horror.
+Added a new playermodel.
+Added a new credit board.
+Added new text
+and added a grave.
