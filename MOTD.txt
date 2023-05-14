@@ -1,18 +1,3 @@
 New updates are:
 
-New shaders
-Horror mode a bit dark
-Change the start of timy jimy horror mode textures
-added pvp map you can teleport to
-Fixed kick hammers for mods
-fixed zero gravity space
-Added new sky for snowworld
-hid the gibbon jumpers poster because its not on applab yet 
-changed the bed back to normal
-changed the jungle jive poster
-fixed the entrance to level 3 for backrooms horror mode
-added a door for level 1 of timy jimy horror mode but
-level 2 not out yet
-Got rid of smoothness for timmy and jimmy
-Fixed the tutorial tv
-And the rest you gaga's can find your self. :)
+New locomotion for jungle jive!
