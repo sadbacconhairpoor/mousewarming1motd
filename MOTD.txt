@@ -1,3 +1,4 @@
 New updates are:
 
-New locomotion for jungle jive!
+added a new locomotion
+Probably fixed the arms idk i didint test the game
