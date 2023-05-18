@@ -1,10 +1,6 @@
 New updates are:
 
-added music to water rise
-new computer a bit idk
-fixed the cosmetics
-added a monster pov in timmy jimmy level 1
-Level 2 coming soon after i get a good team to support me and to give like cool events and stuff
-added a new poster
-moved the big tree a bit so you can get up easier
-The rest of the updates you gaga's can find your self!
+New playermodel i just revamped the old old old model.
+Got rid of the capuchin locomotion.
+ADDED LEVEL 2!!! Remember to report bugs in the discord server.
+REMEMBER TO TURN OFF WATER RISE BECAUSE I FORGOT TO TURN IT OFF.
